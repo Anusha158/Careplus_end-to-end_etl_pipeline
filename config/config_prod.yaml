@@ -1,0 +1,6 @@
+database:
+  url: postgresql://user:pass@db-host:5432/prod_db
+paths:
+  raw: s3://my-bucket/raw
+  staging: s3://my-bucket/staging
+  curated: s3://my-bucket/curated

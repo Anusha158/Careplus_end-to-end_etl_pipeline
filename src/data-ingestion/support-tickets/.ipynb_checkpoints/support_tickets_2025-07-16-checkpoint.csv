@@ -1,0 +1,4 @@
+ticket_id,created_at,resolved_at,agent,priority,IssUeCat,channel,status,agent_feedback
+TCK0716000,2025-07-16 00:41,2025-07-16 09:52,Arjun,Medum,Bug Report,Email,Resolved,
+TCK0716001,2025-07-16 01:05,2025-07-16 03:00,Arjun,Medum,Bug Report,Web Form,Resolved,
+TCK0716002,2025-07-16 01:38,2025-07-16 11:47,Ananya,Medium,Account Locked,Email,Resolved,

@@ -1,0 +1,6 @@
+database:
+  url: sqlite:///dev.db
+paths:
+  raw: data/raw
+  staging: data/staging
+  curated: data/curated
